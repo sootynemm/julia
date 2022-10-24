@@ -1,5 +1,5 @@
 __site/
-docs/
 .DS_Store
-package-lock.json
+franklin
+franklin.pub
 node_modules/
