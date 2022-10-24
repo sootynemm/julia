@@ -2,7 +2,7 @@
 
 website_title = "sootynemm, poet and technical writer"
 website_descr = "sootynemm"
-website_url = "sootynemm.github.io/julia"
+website_url = "julia"
 
 author = "Jay Miller"
 
