@@ -8,7 +8,7 @@ author = "Jay Miller"
 
 mintoclevel = 2
 
-prepath = "julia"
+prepath = ""
 
 ignore = ["node_modules/", "franklin", "franklin.pub"]
 
