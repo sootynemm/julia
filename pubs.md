@@ -12,6 +12,7 @@ tags = ["poetry", "book reviews", "canadian literature"]
 \toc
 
 ## reviews
+
 [DisPlace: The Poetry of Nduka Otiono, ed. Peter Midgley](https://arcpoetry.ca/2022/10/17/nduka-otiono-displace/) in _Arc Poetry Magazine_, October 17, 2022.
 
 [The Book of Grief and Hamburgers, Stuart Ross](https://periodicityjournal.blogspot.com/2022/10/jay-miller-book-of-grief-and-hamburgers.html) in _periodicities: a journal of poetry and poetics_, October 4, 2022.
@@ -33,6 +34,7 @@ tags = ["poetry", "book reviews", "canadian literature"]
 [Espesantes, Stuart Ross](https://bywords.ca/march2019/review1.htm) in _ByWords_, March 1, 2019.
 
 ## poems
+
 [baelo](https://dailydrunkmag.com/2021/06/21/baelo/) in _The Daily Drunk_, June 21, 2021.
 
 [rampikes, inconnu, ever eat soup](https://www.anamorphoseis.com/_files/ugd/ac0381_973e38171eb14c0f9d13e9698517218b.pdf) in _Anamorphoseis Magazine_, April 14, 2021.
