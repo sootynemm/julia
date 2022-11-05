@@ -12,7 +12,9 @@ tags = ["poetry", "book reviews", "canadian literature"]
 \toc
 
 ## reviews
-[The Book of Grief and Hamburgers](https://periodicityjournal.blogspot.com/2022/10/jay-miller-book-of-grief-and-hamburgers.html) in _periodicities: a journal of poetry and poetics_, October 4, 2022.
+[DisPlace: The Poetry of Nduka Otiono, ed. Peter Midgley](https://arcpoetry.ca/2022/10/17/nduka-otiono-displace/) in _Arc Poetry Magazine_, October 17, 2022.
+
+[The Book of Grief and Hamburgers, Stuart Ross](https://periodicityjournal.blogspot.com/2022/10/jay-miller-book-of-grief-and-hamburgers.html) in _periodicities: a journal of poetry and poetics_, October 4, 2022.
 
 [The Face of the Quartzes, Chus Pato, tr. Erín Moure](https://www.asymptotejournal.com/criticism/chus-pato-the-face-of-the-quartzes/) in _Asymptote Journal_, April 21, 2022.
 
