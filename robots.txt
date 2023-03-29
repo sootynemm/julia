@@ -1,4 +1,4 @@
-Sitemap: fct-gmt.ualg.pt\sitemap.xml
+Sitemap: https://sootynemm.com/sitemap.xml
 
 User-agent: *
 Disallow:

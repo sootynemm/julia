@@ -9,14 +9,14 @@
 
   <channel>
     <title>
-      <![CDATA[  sootynemm  ]]>
+      <![CDATA[  sootynemm, poet and technical writer  ]]>
     </title>
-    <link> fct-gmt.ualg.pt </link>
+    <link> https://sootynemm.com/ </link>
     <description>
       <![CDATA[  sootynemm  ]]>
     </description>
     <atom:link
-      href="fct-gmt.ualg.pt\feed.xml"
+      href="https://sootynemm.com/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
@@ -25,30 +25,18 @@
   <title>
     <![CDATA[  poets against fascism  ]]>
   </title>
-  <link> fct-gmt.ualg.pt\poets-against-fascism/index.html </link>
-  <guid> fct-gmt.ualg.pt\poets-against-fascism/index.html </guid>
+  <link> https://sootynemm.com/poets-against-fascism/index.html </link>
+  <guid> https://sootynemm.com/poets-against-fascism/index.html </guid>
   <description>
     <![CDATA[  poets against fascism zine  ]]>
-  </description>
-
-  
-  
-
-  
-  <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
-
-  
+  </description>  
+    
+  <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
-    <atom:name>sootynemm</atom:name>
+    <atom:name>Jay Miller</atom:name>
   </atom:author>
-  
-
-  
-
-  
-
-  
+        
 </item>
 </channel></rss>
