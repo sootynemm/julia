@@ -13,21 +13,21 @@ tags = ["poetry", "book reviews", "canadian literature"]
 
 ## reviews
 
-[DisPlace: The Poetry of Nduka Otiono, ed. Peter Midgley](https://arcpoetry.ca/2022/10/17/nduka-otiono-displace/) in _Arc Poetry Magazine_, October 17, 2022.
+[DisPlace: The Poetry of Nduka Otiono, ed. Peter Midgley](https://arcpoetry.ca/editorials/jay-miller-on-displace-by-nduka-otiono/) in _Arc Poetry Magazine_, October 17, 2022.
 
 [The Book of Grief and Hamburgers, Stuart Ross](https://periodicityjournal.blogspot.com/2022/10/jay-miller-book-of-grief-and-hamburgers.html) in _periodicities: a journal of poetry and poetics_, October 4, 2022.
 
 [The Face of the Quartzes, Chus Pato, tr. Erín Moure](https://www.asymptotejournal.com/criticism/chus-pato-the-face-of-the-quartzes/) in _Asymptote Journal_, April 21, 2022.
 
-[Ghost Face, Greg Santos](https://arcpoetry.ca/2022/01/11/ghost-face-greg-santos/) in _Arc Poetry Magazine_, January 11, 2022.
+[Ghost Face, Greg Santos](https://arcpoetry.ca/editorials/jay-miller-on-ghost-face-by-greg-santos/) in _Arc Poetry Magazine_, January 11, 2022.
 
-[The Green Waves, Rob Taylor](https://arcpoetry.ca/2021/09/13/green-waves-rob-taylor/) in _Arc Poetry Magazine_, September 13, 2021.
+[The Green Waves, Rob Taylor](https://arcpoetry.ca/editorials/green-waves-rob-taylor/) in _Arc Poetry Magazine_, September 13, 2021.
 
 [Mr. Funnyman, Shawn Berman](https://www.superfroot.com/post/review-mr-funnyman-by-shawn-berman-reviewed-by-jay-miller) in _Superfroot_, August 5, 2021.
 
-[The Elem:ents (Nam:loz), Erín Moure](https://arcpoetry.ca/2021/06/21/elem-ents-nam-loz-erin-moure/) in _Arc Poetry Magazine_, June 21, 2021.
+[The Elem:ents (Nam:loz), Erín Moure](https://arcpoetry.ca/editorials/elem-ents-nam-loz-erin-moure/) in _Arc Poetry Magazine_, June 21, 2021.
 
-[The Mean Game, John Wall Barger](https://arcpoetry.ca/2021/06/06/mean-game-john-wall-barger/) in _Arc Poetry Magazine_, June 6, 2021.
+[The Mean Game, John Wall Barger](https://arcpoetry.ca/editorials/mean-game-john-wall-barger/) in _Arc Poetry Magazine_, June 6, 2021.
 
 [Ghost Face, Greg Santos; Bento Box, Mackenzie Moore](https://issuu.com/varietypackzine/docs/varietypackissuethree_template/16) in _Variety Pack_, October 31, 2020.
 
