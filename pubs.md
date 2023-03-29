@@ -3,7 +3,7 @@ title = "pubs"
 date = Date(2022, 10, 20)
 rss = "publications by jay miller, poet"
 
-tags = ["poetry", "book reviews", "canadian literature"]
+tags = ["poetry", "book reviews", "canadian literature", "litmag", "jay miller"]
 +++
 
 
