@@ -1,6 +1,6 @@
 +++
 title = "pubs"
-date = Date(2022, 10, 20)
+date = Date(2023, 08, 22)
 rss = "publications by jay miller, poet"
 
 tags = ["poetry", "book reviews", "canadian literature", "litmag", "jay miller"]
@@ -10,6 +10,10 @@ tags = ["poetry", "book reviews", "canadian literature", "litmag", "jay miller"]
 # pubs
 
 \toc
+
+## books
+
+[Virtual Lands, Selected Poetry: MS-DOS Series](https://turrethousepress.ca/) with _Turret House Press_, July 27, 2023.
 
 ## reviews
 
@@ -34,6 +38,12 @@ tags = ["poetry", "book reviews", "canadian literature", "litmag", "jay miller"]
 [Espesantes, Stuart Ross](https://bywords.ca/march2019/review1.htm) in _ByWords_, March 1, 2019.
 
 ## poems
+
+[A Triptych of Bukowski at the Airport Bar: A Whiskey Symphony](https://kalopsialit.org/issue-xi/) in _Kalopsia_, June 30, 2023.
+
+[Gratitude](https://graphicviolencelit.wordpress.com/2023/06/09/gratitude/) in _Graphic Violence_, June 9, 2023.
+
+[Rabbit's Foot](https://graphicviolencelit.wordpress.com/2023/05/24/rabbits-foot/) in _Graphic Violence_, May 24, 2023.
 
 [baelo](https://dailydrunkmag.com/2021/06/21/baelo/) in _The Daily Drunk_, June 21, 2021.
 
