@@ -13,7 +13,7 @@ tags = ["Github", "git repos", "coding", "Jay Miller"]
 Initial commit: October 4, 2023
 [jupyter-world-gdp](https://github.com/sootynemm/jupyter-world-gdp)
 This is a work-in-progress interactive Jupyter Notebook demonstrating visualizations of global GDP over time, pulled in from a recent Kaggle dataset: [World GDP by Country, Region, and Income Group](https://www.kaggle.com/datasets/willianoliveiragibin/world-gdp-by-country-region-and-income-group), 1960-2022.
-<span style="color: #da5b0b";>●</span> Jupyter Notebook
+<div> <span style="color: #da5b0b";>●</span> Jupyter Notebook </div>
 
 ***spacies*** **, a Space Invaders clone in Rust and Python**
 Initial commit: ctober 4, 2023
