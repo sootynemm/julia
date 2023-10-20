@@ -11,7 +11,7 @@ tags = ["sootynemm", "Jay Miller", "tech writer", "poet", "Canadian writer"]
 
 ## Where did *sootynemm* come from?
 
-Jay Miller can be reduced only to the Joycean: **sootynemm**, a Finnegans Wake-ification of *pseudonym*, and cognate of what francophones refer to an online alias by, *un pseudo*. In short, [an autological word](https://en.wikipedia.org/wiki/Autological_word){target="_blank"}. *Voco, ergo exsisto*.
+Jay Miller can be reduced only to the Joycean: **sootynemm**, a Finnegans Wake-ification of *pseudonym*, and cognate of what francophones refer to an online alias by, *un pseudo*. In short, [an autological word](https://en.wikipedia.org/wiki/Autological_word). *Voco, ergo exsisto*.
 
 ## Tech Writing, Translation, Copy
 
@@ -27,20 +27,24 @@ Writing on contemporary Canadian literature since 2011, Jay Miller tempers his p
 
 In one year, with a lot of love and luck, [a handful of poems](/pubs/#poems); in another, [a volley of reviews](/pubs/#reviews), sparsed out over many months.
 
-Miller's pride clearly thrives on the variety of his literary input, more so than his output, having edited, curated, funded, promoted, participated and shared in the pursuits of so many more people undoubtedly than have read his work. On-the-grid but low-key, like [Réjean Ducharme](https://web.archive.org/web/20140303212620/http://fr.literatured.com/ducharme-le-desesperant/){target="_blank"} *sans* the novels.
+Miller's pride clearly thrives on the variety of his literary input, more so than his output, having edited, curated, funded, promoted, participated and shared in the pursuits of so many more people undoubtedly than have read his work. On-the-grid but low-key, like [Réjean Ducharme](https://web.archive.org/web/20140303212620/http://fr.literatured.com/ducharme-le-desesperant/) *sans* the novels.
 
 ## Poetry and Video Games
 
-Miller's chapbook, ***Virtual Lands***, celebrates his characteristic joy for assemblages, like the poetic equivalent of an [*I Spy*](https://en.wikipedia.org/wiki/I_Spy_(Scholastic)){target="_blank"} picture book.
+Miller's debut chapbook, ***Virtual Lands: MS-DOS Series***, celebrates his characteristic joy for montage and mise en scène, like the poetic equivalent of an [*I Spy*](https://en.wikipedia.org/wiki/I_Spy_(Scholastic)) picture book.
 
-Each poem exists as a distinct object, instantiating a variety of contexts from seemingly dissimilar recesses of the internet and personal memory into a cohesive whole: scraps of community wiki pages from decades-old fanbases, snippets of podcasts, audio transcription from a neglected YouTube video in French from the floor of a gaming convention, and emails with the clandestine developers present at the dawn of PC gaming.
+Each poem exists as a distinct overture, each game discussed evoking a variety of contexts from seemingly dissimilar recesses of the internet and personal memory into a cohesive whole: scraps of community wiki pages from decades-old fanbases, snippets of podcasts, audio transcription from a neglected YouTube video in French from the floor of a gaming convention, and emails with the clandestine developers present at the dawn of PC gaming.
 
 Indulging the author's nostalgia of MS-DOS games and the Windows 3.1, 95, and 98 operating system user experience simultaneously, encapsulating temporal, technological and emotional dimensions, reveals pithy reflections and quiet contemplations throughout.
 
 ## Who is Jay Miller?
 
-From an ontological perspective, **Jay Miller** is a walking epistomological [sorites paradox](https://en.wikipedia.org/wiki/Sorites_paradox){target="_blank"}.
+You are not just reading this About page. You are not just a user, not just a visitor, of this website.
 
-You are not just reading this About page. You are not just a user, not just a visitor, of this website. *Visitor*, what a circumlocution!
+*Visitor*, what a circumlocution!
 
-You are engaging with the vista of an object-landscape, an ensemble of object-texts: the assertion and validation of places, things, industries, work, words, docs, fleeting moments, vignettes, gestures, flourishes and facts, forming new relations to the words on your screen and recreating the instance in which they were composed, to bridge the divide between you and the I beyond the third-person subject pronoun of this text, you and *him*, Jay Miller and **sootynemm**.
+Jay Miller is not just a *nom de plume*.
+
+From an ontological perspective, **Jay Miller** is a walking epistomological [sorites paradox](https://en.wikipedia.org/wiki/Sorites_paradox).
+
+You are engaging with the assertion and validation of knowledge, experience, places, things, industries, work, words, docs, fleeting moments, vignettes, gestures, flourishes and facts, forming new relations to the words on your screen and recreating the instance in which they were composed, to bridge the divide between you and the I beyond the third-person subject pronoun of this text, you and *him*, Jay Miller and **sootynemm**.
