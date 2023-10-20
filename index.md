@@ -6,9 +6,10 @@ tags = ["sootynemm", "Jay Miller", "tech writer", "poet", "portfolio"]
 +++
 
 # Home
-## Jay Miller
 
 ![Jay Miller, Canadian poet and tech writer](/assets/selfie.jpg)
+
+## Jay Miller
 
 ### Tech Writer and Poet
 
