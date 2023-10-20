@@ -1,7 +1,7 @@
 +++
 
-website_title = "sootynemm, poet and technical writer"
-website_descr = "sootynemm"
+website_title = "Jay Miller, tech writer and poet"
+website_descr = "The personal site of Jay Miller, tech writer and poet"
 website_url = "https://sootynemm.com/"
 
 author = "Jay Miller"
