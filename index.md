@@ -1,6 +1,7 @@
 +++
 
-title = "Jay Miller | sootynemm" tags = ["sootynemm", "Jay Miller", "tech writer", "poet", "portfolio"]
+title = "Jay Miller | sootynemm"
+tags = ["sootynemm", "Jay Miller", "tech writer", "poet", "portfolio"]
 
 +++
 
