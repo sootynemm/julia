@@ -31,7 +31,7 @@ Miller's pride clearly thrives on the variety of his literary input, more so tha
 
 ## Poetry and Video Games
 
-Miller's debut chapbook, ***Virtual Lands: MS-DOS Series***, celebrates his characteristic joy for montage and mise en scène, like the poetic equivalent of an [*I Spy*](https://en.wikipedia.org/wiki/I_Spy_(Scholastic)) picture book.
+Miller's debut chapbook, *Virtual Lands: MS-DOS Series*, celebrates his characteristic joy for montage and mise en scène, like the poetic equivalent of an [*I Spy*](https://en.wikipedia.org/wiki/I_Spy_(Scholastic)) picture book.
 
 Each poem exists as a distinct overture, each game discussed evoking a variety of contexts from seemingly dissimilar recesses of the internet and personal memory into a cohesive whole: scraps of community wiki pages from decades-old fanbases, snippets of podcasts, audio transcription from a neglected YouTube video in French from the floor of a gaming convention, and emails with the clandestine developers present at the dawn of PC gaming.
 
@@ -47,4 +47,4 @@ Jay Miller is not just a *nom de plume*.
 
 From an ontological perspective, **Jay Miller** is a walking epistomological [sorites paradox](https://en.wikipedia.org/wiki/Sorites_paradox).
 
-You are engaging with the assertion and validation of knowledge, experience, places, things, industries, work, words, docs, fleeting moments, vignettes, gestures, flourishes and facts, forming new relations to the words on your screen and recreating the instance in which they were composed, to bridge the divide between you and the I beyond the third-person subject pronoun of this text, you and *him*, Jay Miller and **sootynemm**.
+You are engaging with the assertion and validation of knowledge, experience, places, things, industries, work, words, docs, fleeting moments, vignettes, gestures, flourishes and facts, forming new relations to the words on your screen and recreating the instance in which they were composed, to bridge the divide between you and the I beyond the third-person subject pronoun of this text, you and *him*, Jay Miller *and* **sootynemm**.
