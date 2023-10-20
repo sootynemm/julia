@@ -1,4 +1,0 @@
-Sitemap: https://sootynemm.com/sitemap.xml
-
-User-agent: *
-Disallow:
