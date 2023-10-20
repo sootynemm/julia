@@ -23,9 +23,9 @@ Initial commit: October 4, 2023
 
 ---
 
-**spacies, *a Space Invaders clone in Rust and Python***
+**spacies, a Space Invaders clone in Rust and Python**
 
-Initial commit: ctober 4, 2023
+Initial commit: October 4, 2023
 
 🚀 [spacies](https://github.com/sootynemm/spacies)
 
