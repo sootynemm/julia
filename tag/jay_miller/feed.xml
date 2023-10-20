@@ -77,4 +77,23 @@
   </atom:author>
         
 </item>
+
+<item>
+  <title>
+    <![CDATA[  Contact | sootynemm  ]]>
+  </title>
+  <link> https://sootynemm.com/contact/index.html </link>
+  <guid> https://sootynemm.com/contact/index.html </guid>
+  <description>
+    <![CDATA[  Contact Jay Miller  ]]>
+  </description>  
+    
+  <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Jay Miller</atom:name>
+  </atom:author>
+        
+</item>
 </channel></rss>
