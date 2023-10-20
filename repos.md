@@ -55,7 +55,7 @@ Initial commit: November 22, 2022
 
 Initial commit: November 20, 2022
 
-🚀 [writethedocs_guide_fr](https://github.com/sootynemm/writethedocs_guide_fr/tree/da87143ebcb00c8c9e04ee86c8422dda01739a32/docs/guide)
+🚀 [writethedocs\_guide\_fr](https://github.com/sootynemm/writethedocs_guide_fr/tree/da87143ebcb00c8c9e04ee86c8422dda01739a32/docs/guide)
 
 
 *An open-source French translation for [the Write The Docs community guide](https://www.writethedocs.org/guide/). This translated guide has yet to be implemented, having led to a community block regarding the implementation of a localization CI/CD pipeline for the website, without which, updating the documentation across languages would become an act of juggling cats, sadly.*
