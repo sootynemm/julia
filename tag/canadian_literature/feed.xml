@@ -9,11 +9,11 @@
 
   <channel>
     <title>
-      <![CDATA[  sootynemm, poet and technical writer  ]]>
+      <![CDATA[  Jay Miller, tech writer and poet  ]]>
     </title>
     <link> https://sootynemm.com/ </link>
     <description>
-      <![CDATA[  sootynemm  ]]>
+      <![CDATA[  The personal site of Jay Miller, tech writer and poet  ]]>
     </description>
     <atom:link
       href="https://sootynemm.com/feed.xml"
@@ -23,34 +23,15 @@
 
 <item>
   <title>
-    <![CDATA[  pubs  ]]>
+    <![CDATA[  Publications | sootynemm  ]]>
   </title>
   <link> https://sootynemm.com/pubs/index.html </link>
   <guid> https://sootynemm.com/pubs/index.html </guid>
   <description>
-    <![CDATA[  publications by jay miller, poet  ]]>
+    <![CDATA[  Publications by Jay Miller, poet  ]]>
   </description>  
     
-  <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Jay Miller</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
-    <![CDATA[  poets against fascism  ]]>
-  </title>
-  <link> https://sootynemm.com/poets-against-fascism/index.html </link>
-  <guid> https://sootynemm.com/poets-against-fascism/index.html </guid>
-  <description>
-    <![CDATA[  poets against fascism zine  ]]>
-  </description>  
-    
-  <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>  
+  <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>  
   
   
   <atom:author>

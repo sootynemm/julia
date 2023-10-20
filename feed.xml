@@ -9,11 +9,11 @@
 
   <channel>
     <title>
-      <![CDATA[  sootynemm, poet and technical writer  ]]>
+      <![CDATA[  Jay Miller, tech writer and poet  ]]>
     </title>
     <link> https://sootynemm.com/ </link>
     <description>
-      <![CDATA[  sootynemm  ]]>
+      <![CDATA[  The personal site of Jay Miller, tech writer and poet  ]]>
     </description>
     <atom:link
       href="https://sootynemm.com/feed.xml"
@@ -23,15 +23,53 @@
 
 <item>
   <title>
-    <![CDATA[  pubs  ]]>
+    <![CDATA[  Repos | sootynemm  ]]>
+  </title>
+  <link> https://sootynemm.com/repos/index.html </link>
+  <guid> https://sootynemm.com/repos/index.html </guid>
+  <description>
+    <![CDATA[  Repositories by Jay Miller  ]]>
+  </description>  
+    
+  <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Jay Miller</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Publications | sootynemm  ]]>
   </title>
   <link> https://sootynemm.com/pubs/index.html </link>
   <guid> https://sootynemm.com/pubs/index.html </guid>
   <description>
-    <![CDATA[  publications by jay miller, poet  ]]>
+    <![CDATA[  Publications by Jay Miller, poet  ]]>
   </description>  
     
-  <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>  
+  <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Jay Miller</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  About | sootynemm  ]]>
+  </title>
+  <link> https://sootynemm.com/about/index.html </link>
+  <guid> https://sootynemm.com/about/index.html </guid>
+  <description>
+    <![CDATA[  Publications by Jay Miller, poet  ]]>
+  </description>  
+    
+  <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
