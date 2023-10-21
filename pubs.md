@@ -1,13 +1,13 @@
 +++
-title = "Publications | sootynemm"
+title = "Writings | sootynemm"
 date = Date(2023, 10, 20)
-rss = "Publications by Jay Miller, poet"
+rss = "Writings by Jay Miller, poet"
 
 tags = ["poetry", "book reviews", "Canadian literature", "litmag", "Jay Miller"]
 +++
 
 
-# Publications
+# Writings
 
 \toc
 
